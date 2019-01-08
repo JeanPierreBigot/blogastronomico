@@ -1,0 +1,82 @@
+/*COLOR DEL FONDO DE LA PAGINA*/
+body
+{
+background-color:rgb(179,182,183);
+} 
+/*FORMATO DE LOS DIVS*/
+div
+{
+border:1px solid black;
+}
+/*FORMATO DE TEXTO DEL TITULO DEL BLOG*/
+.nombreblog
+{
+color:rgb(23,32,42);
+font-family:arial;
+}
+/*FORMATO DE LAS COLUMNAS*/
+.columna1
+{
+background-color:rgb(14,98,81);
+}
+.columna2
+{
+background-color:rgb(11,83,69);
+}
+/*FORMATO DEL BOTON BUSCAR*/
+.botonbuscar
+{
+border-radius:5px;
+color:rgb(112,123,124);
+}
+/*FORMATO DEL TEXTO DE LOS TITULOS*/
+h4
+{
+color:rgb(112,123,124);
+}
+/*FORMATO DE LAS IMAGENES*/
+.foto1
+{
+width:300px;
+}
+.foto2
+{
+width:300px;
+}
+.foto3
+{
+width:300px;
+}
+.foto4
+{
+width:300px;
+}
+.foto5
+{
+width:300px;
+}
+.foto6
+{
+width:300px;
+}
+/*FORMATO DE LAS CAJAS PARA INGRESAR COMENTARIOS*/
+.comentario1
+{
+width:20px;
+}
+.comentario2
+{
+width:20px;
+}
+.col1
+{
+background-color:blue;
+}
+.col2
+{
+background-color:green;
+}
+.col3
+{
+background-color:red;
+}
